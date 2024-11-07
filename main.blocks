@@ -1,0 +1,37 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="pxt-on-start" id="xG$7SY{o^=]w9#d.#{}I" x="0" y="0"><statement name="HANDLER"><block type="controls_repeat_ext" id="Nat|oZF--`HqWXU:%|p,"><value name="TIMES"><shadow type="math_whole_number" id="-P6b{V$]KafM)VWaGc{N"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_show_leds" id="9S+k6]4x^00eu%mHBnnD"><field name="LEDS">`
+        # # . . # 
+        . . . . # 
+        . . . . . 
+        # . . . . 
+        # . . # #
+        `</field><next><block type="device_show_leds" id="]x:D13.i33lf.sO37$^J"><field name="LEDS">`
+        . # # . . 
+        . . . . # 
+        # . . . # 
+        # . . . . 
+        . . # # .
+        `</field><next><block type="device_show_leds" id="H^}qOwD%*N$Mp^zn`b)I"><field name="LEDS">`
+        . . # # . 
+        # . . . . 
+        # . . . # 
+        . . . . # 
+        . # # . .
+        `</field><next><block type="device_show_leds" id="%pU{iWa--d.GzNsCbs,H"><field name="LEDS">`
+        # . . # # 
+        # . . . . 
+        . . . . . 
+        . . . . # 
+        # # . . #
+        `</field></block></next></block></next></block></next></block></statement><next><block type="device_show_leds" id="E9)lyT7SCt4|SQ3[]Ft#"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # # # # #
+        `</field><next><block type="device_print_message" id="T!2dP.H!D/X4RKhzJ??h"><value name="text"><shadow type="text" id="`~p=9=8_z(Hge6j.@xNC"><field name="TEXT">Hello!</field></shadow><block type="control_device_name" id="*M|/e6nGY)]7H4Y~|20F"></block></value><next><block type="device_show_leds" id="@9#.?BO:i)PtgDZOA;)R"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="device_print_message" id=",lS%x-Wx|NfQ;c!d;RTH"><value name="text"><shadow type="text" id="X~;;M`|:B2h(L0itv1=o"><field name="TEXT">Hello!</field></shadow><block type="control_device_serial_number" id="l#[65oU)oI3sl3`pLBBz"></block></value></block></next></block></next></block></next></block></next></block></statement></block></xml>
